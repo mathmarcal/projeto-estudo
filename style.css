@@ -88,7 +88,7 @@ section{
 #img02{
     background-image: url('imagens/bk-g3.jpg');
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: 0px 0px;
 }
 
 footer{
